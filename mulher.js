@@ -11,6 +11,8 @@ function mostraMulher(request, response){
         minibio: 'Desenvolvedora e instrutora'
     })
 
+
+    
 }
 function mostraPorta(){
     console.log("Servidor rodando na porta: ", porta);
